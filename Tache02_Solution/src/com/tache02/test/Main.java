@@ -5,6 +5,7 @@ import java.util.concurrent.ThreadLocalRandom;
  * <CENTER><font size="6">Classe Main pour tester le programme</font></CENTER>
  * @author Malek ilyes
  * @version 1.0
+ * Another Comment
  *
  */
 public class Main {
